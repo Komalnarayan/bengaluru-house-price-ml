@@ -5,8 +5,14 @@ ML Project - Affordable house Analytics; Bengaluru-House-Price Prediction (Bcs C
 # Bengaluru House Price Prediction
 
 **Student:** Komal | **Roll No.:** 24020570037
+
+
 **Course:** Machine Learning (B.Sc. (H) CS, Sem V), University of Delhi
+
+
 **Supervisor:** Dr. Nikhil Kumar Rajput 
+
+
 **Problem No.:** 47 from ML_Application_Problems.xlsx
 
 ## What this project does
