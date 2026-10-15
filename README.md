@@ -30,4 +30,4 @@ Open the notebook in Google Colab and run all cells.
 - Classification: ** MLP (64-32)** — F1 =  0.705, AUC = 0.933
 
 ## Paper
-[`RollNo_Name_ML_Project_Bengaluru.pdf`](RollNo_Name_ML_Project_Bengaluru.pdf)
+[`komal.24020570037(ml project).pdf`](komal.24020570037(ml project).pdf)
