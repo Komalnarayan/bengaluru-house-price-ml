@@ -1,0 +1,4 @@
+g,n,RMSE_model,RMSE_baseline
+frequent (10+),1894,53.27,1360.6
+rare (1-9),510,129.1,1537.19
+unseen (0),94,190.23,371.11

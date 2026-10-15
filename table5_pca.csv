@@ -1,0 +1,6 @@
+Column1,Column2,Column3,Column4,Column5,Column6
+Setting,,,MAE,RMSE,R2
+"OLS, all features",,,35.729,95.35,0.522
+"OLS, PCA 95%",,,39.222,101.207,0.461
+"k-NN (k=15), all features",,,33.765,92.014,0.555
+"k-NN (k=15), PCA 95%",,,34.553,92.529,0.55

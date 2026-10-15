@@ -1,0 +1,10 @@
+Variable,Type,Missing %,Unique
+area_type,object,0.0,4
+availability,object,0.0,81
+location,object,0.0,1305
+size,object,0.1,31
+society,object,41.3,2688
+total_sqft,object,0.0,2117
+bath,float64,0.5,19
+balcony,float64,4.6,4
+price,float64,0.0,1994
