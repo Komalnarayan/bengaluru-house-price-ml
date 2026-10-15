@@ -20,7 +20,7 @@ https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 - `Bengaluru_House_Price_ML.ipynb` — full code
 - `results/` — metrics (CSV)
 - `figures/` — all plots
-- `komal.24020570037(ml project).pdf` — final paper
+- `komal.24020570037_ml_project.pdf` — final paper
 
 ## How to run
 Open the notebook in Google Colab and run all cells.
@@ -30,4 +30,4 @@ Open the notebook in Google Colab and run all cells.
 - Classification: ** MLP (64-32)** — F1 =  0.705, AUC = 0.933
 
 ## Paper
-[`komal.24020570037(ml project).pdf`](komal.24020570037(ml project).pdf)
+[`komal.24020570037_ml_project.pdf`](komal.24020570037_ml_project.pdf)
