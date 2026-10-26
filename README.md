@@ -24,8 +24,7 @@ https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 
 ## Files
 - `Bengaluru_House_Price_ML.ipynb` — full code
-- `results/` — metrics (CSV)
-- `figures/` — all plots
+  
 - `komal.24020570037_ml_project.pdf` — final paper
 
 ## How to run
