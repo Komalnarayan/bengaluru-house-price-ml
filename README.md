@@ -32,7 +32,7 @@ Open the notebook in Google Colab and run all cells.
 
 ## Best Results
 - Regression: **MLP (64-32)** — RMSE =  92.231, R² =  0.636
-- Classification: ** MLP (64-32)** — F1 =  0.705, AUC = 0.933
+- Classification: **MLP (64-32)** — F1 =  0.705, AUC = 0.933
 
 ## Paper
 [`komal.24020570037_ml_project.pdf`](komal.24020570037_ml_project.pdf)
