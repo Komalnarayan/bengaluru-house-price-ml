@@ -16,7 +16,7 @@ ML Project - Affordable house Analytics; Bengaluru-House-Price Prediction (Bcs C
 **Problem No.:** 47 from Project_Allocation.xlsx
 
 ## What this project does
-Predicts Bengaluru house prices and classifies them as Affordable (≤ ₹60 lakhs) or Premium using classical ML models.
+Housing affordability is a major urban challenge. Predict apartment prices from area, location, size and amenities, after cleaning inconsistent square-feet entries and removing outliers, and map affordable localities.
 
 ## Dataset
 Kaggle — Bengaluru House Price Data
