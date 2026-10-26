@@ -13,7 +13,7 @@ ML Project - Affordable house Analytics; Bengaluru-House-Price Prediction (Bcs C
 **Supervisor:** Dr. Nikhil Kumar Rajput 
 
 
-**Problem No.:** 47 from ML_Application_Problems.xlsx
+**Problem No.:** 47 from Project_Allocation.xlsx
 
 ## What this project does
 Predicts Bengaluru house prices and classifies them as Affordable (≤ ₹60 lakhs) or Premium using classical ML models.
